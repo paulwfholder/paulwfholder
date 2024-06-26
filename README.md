@@ -54,7 +54,8 @@
 
 <h2> ⚡ Certifications: </h2>
 
-- [Certified in Cybersecurity]
+- [Certified in Cybersecurity](https://www.credly.com/badges/f702e069-937e-4fe4-a9e4-c06c66a57fdd/linked_in_profile)
+- [DoD - Cyber Sentinel Challenge - May 2024 Participant](https://www.credential.net/535a95d5-abae-4e13-a4b5-de35fe2e794b#gs.berj1e)
 
 <!-- <h2>📺 Popular YouTube Videos</h2>
 
