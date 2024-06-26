@@ -34,17 +34,13 @@
 <h3> 🔵👥 Blue Team Projects: </h3>
 
 - [Cyber Defense Initiative](https://github.com/paulwfholder/Cyber-Defense-Initiative-Project/tree/main)
-- [Qualys Project]
-- [Splunk]
-- [CVSS]
-
 
 <h3> ⚪👥 Governance, Risk, and Compliance Projects: </h3>
 
-- [Threat Modeling Project]
-- [Comprehensive Business Continuity Project]
+- [Threat Modeling Project](https://github.com/paulwfholder/Threat-Model-Project/tree/main)
+- [Comprehensive Business Continuity Project](https://github.com/paulwfholder/Business-Continuity-Project/tree/main)
 - [Disaster and Business Continuity Project](https://github.com/paulwfholder/Disaster-and-Business-Project/tree/main)
-- [Implementation of Vulnerability and Risk Assessments Project]
+- [Implementation of Vulnerability and Risk Assessments Project](https://github.com/paulwfholder/Vulnerability-and-Risk-Assessments/tree/main)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -71,15 +67,12 @@
 [<img align="left" alt="paulwfholder | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram] -->
 [<img align="left" alt="paulwfholder | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<!--[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/ -->
+<!--[twitter]: https://twitter.com/
+[youtube]: https://www.youtube.com/c/
+[instagram]: https://www.instagram.com/ -->
 [linkedin]: https://linkedin.com/in/paulwfholder
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
