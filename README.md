@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects: </h2>
 
-- <!-- [Active Directory Home Lab](https://github.com/paulwfholder/urlgoeshere) -->
+<!-- [Active Directory Home Lab](https://github.com/paulwfholder/urlgoeshere) -->
 - [Disk Sanitization Home Lab](https://github.com/paulwfholder/SanitizationLab/tree/main)
   
 <h3> 🔴👥 Red Team Projects: </h3>
@@ -33,10 +33,11 @@
     
 <h3> 🔵👥 Blue Team Projects: </h3>
 
+- [Cyber Defense Initiative](https://github.com/paulwfholder/Cyber-Defense-Initiative-Project/tree/main)
 - [Qualys Project]
 - [Splunk]
 - [CVSS]
-- [Cyber Defense Initiative]
+
 
 <h3> ⚪👥 Governance, Risk, and Compliance Projects: </h3>
 
