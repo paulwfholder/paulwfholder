@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects: </h2>
 
-- [Active Directory Home Lab](https://github.com/paulwfholder/urlgoeshere)
+- <!-- [Active Directory Home Lab](https://github.com/paulwfholder/urlgoeshere) -->
+- [Disk Sanitization Home Lab](https://github.com/paulwfholder/SanitizationLab/tree/main)
   
 <h3> 🔴👥 Red Team Projects: </h3>
 
