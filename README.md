@@ -22,17 +22,18 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- [Something Meaningful]
+- [Something Meaningful](https://github.com/url-goes-here)
 
 <h2> 🔭 I’m currently working on: </h2>
 
-- [Bug Bounty Programs]
-- [Something Mysterious]
+- [CEHv12 Lab Projects](https://github.com/paulwfholder/CEH_Theory_Notes/blob/main/README.md)
+- [Bug Bounty Programs](https://github.com/url-goes-here)
+- [Something Mysterious](https://github.com/url-goes-here)
 
 <h2> 🌱 I’m currently learning: </h2>
 
-- [Black Hat Python]
-- [Gray Hat Hacking]
+- [Black Hat Python](https://github.com/url-goes-here)
+- [Gray Hat Hacking](https://github.com/url-goes-here)
 
 <h2> ⚡ Certifications: </h2>
 
