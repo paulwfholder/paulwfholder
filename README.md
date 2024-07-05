@@ -7,36 +7,14 @@
   
 <h3> 🔴👥 Red Team Projects: </h3>
 
-  - <b>Gather Info (Reconnaissance Active/Passive Process) </b>
-    - [Footprinting and Reconnaissance]
-    - [Scanning Networks]
-    - [Enumeration]
-    - [Vulnerability Analysis]
-  - <b>Gain Access (Accessibility/Exploit Process) </b>
-    - [System Hacking]
-    - [Malware Threats]
-    - [Sniffing]
-    - [Social Engineering]
-    - [DOS - Denial-of-Service]
-  - <b> Maintain Access (Hijacking Process) </b>
-    - [Session Hijacking]
-    - [Evading IDS, Firewalls, and HoneyPots]
-    - [Hacking Web Servers]
-    - [Hacking Web Applications]
-    - [SQL Injection]
-  - <b>Analyze Access (Overv Process) </b>
-    - [Hacking Wireless Networks]
-    - [Hacking Mobile Platforms]
-    - [IoT and OT Hacking]
-    - [Cloud Computing]
-    - [Cryptography]
+- [Custom Penetration Testing Framework](https://github.com/url-goes-here)
+- [Social Engineering Campaign to Test an Organization's Security Awareness](https://github.com/url-goes-here)
+- [Phishing Campaign to Test an Organizations Email Security](https://github.com/url-goes-here)
+- [Custom Exploit For A Vulnerability](https://github.com/url-goes-here)
     
 <h3> 🔵👥 Blue Team Projects: </h3>
 
 - [Cyber Defense Initiative](https://github.com/paulwfholder/Cyber-Defense-Initiative-Project/tree/main)
-
-<h3> ⚪👥 Governance, Risk, and Compliance Projects: </h3>
-
 - [Threat Modeling Project](https://github.com/paulwfholder/Threat-Model-Project/tree/main)
 - [Comprehensive Business Continuity Project](https://github.com/paulwfholder/Business-Continuity-Project/tree/main)
 - [Disaster and Business Continuity Project](https://github.com/paulwfholder/Disaster-and-Business-Project/tree/main)
@@ -44,13 +22,17 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- [Something Meaningful]
+
 <h2> 🔭 I’m currently working on: </h2>
 
 - [Bug Bounty Programs]
+- [Something Mysterious]
 
 <h2> 🌱 I’m currently learning: </h2>
 
 - [Black Hat Python]
+- [Gray Hat Hacking]
 
 <h2> ⚡ Certifications: </h2>
 
