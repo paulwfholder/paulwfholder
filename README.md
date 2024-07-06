@@ -20,6 +20,10 @@
 - [Disaster and Business Continuity Project](https://github.com/paulwfholder/Disaster-and-Business-Project/tree/main)
 - [Implementation of Vulnerability and Risk Assessments Project](https://github.com/paulwfholder/Vulnerability-and-Risk-Assessments/tree/main)
 
+<h2>👨‍💻 MultiCloud Projects:</h2>
+
+- [Using Terraform with AWS and Google Cloud Platform (GCP)](https://github.com/paulwfholder/MultiCloud-Project/blob/main/README.md)
+  
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - [Something Meaningful](https://github.com/url-goes-here)
@@ -27,7 +31,8 @@
 <h2> 🔭 I’m currently working on: </h2>
 
 - [CEHv12 Lab Projects](https://github.com/paulwfholder/CEH_Theory_Notes/blob/main/README.md)
-- [Bug Bounty Programs](https://github.com/url-goes-here)
+- [CEHv12 Certification](https://eccouncil.org)
+- [Bug Bounty Programs](https://bugcrowd.com)
 - [Something Mysterious](https://github.com/url-goes-here)
 
 <h2> 🌱 I’m currently learning: </h2>
