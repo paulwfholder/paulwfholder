@@ -8,8 +8,8 @@
 <h3> 🔴👥 Red Team Projects: </h3>
 
 - [Custom Penetration Testing Framework](https://github.com/paulwfholder/Penetration_Testing_Framework/tree/main)
-- [Social Engineering Campaign to Test an Organization's Security Awareness](https://github.com/paulwfholder/Social-Engineering-Campaign)
-- [Phishing Campaign to Test an Organizations Email Security](https://github.com/url-goes-here)
+- [Social Engineering Campaign to Test an Organizational Security Awareness](https://github.com/paulwfholder/Social-Engineering-Campaign)
+- [Phishing Campaign to Test Organizational Email Security](https://github.com/paulwfholder/Phishing-Campaign)
 - [Custom Exploit For A Vulnerability](https://github.com/url-goes-here)
     
 <h3> 🔵👥 Blue Team Projects: </h3>
