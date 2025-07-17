@@ -67,13 +67,14 @@ _Senior InfoSec Engineer · AI Security Architect · Author_
 - A little “Something Mysterious” 🚧
 
 ## 🌱 I’m currently learning
-- Black Hat Python
-- Gray Hat Hacking
+- Adversarial Machine Learning  
+- Secure AI Architecture  
+- AI Threat Detection & Response  
 
 ---
 
 ## 🎓 Certifications
-- [ISC² Certified in Cybersecurity](https://www.credly.com/badges/f702e069-937e-4fe4-a9e4-c06c66a57fdd)  
+- [ISC² Certified in Cybersecurity](https://www.credly.com/badges/f702e069-937e-4e13-a4b5-de35fe2e794b)  
 - [DoD Cyber Sentinel Challenge (May 2024)](https://www.credential.net/535a95d5-abae-4e13-a4b5-de35fe2e794b)
 
 ---
@@ -96,8 +97,8 @@ _Senior InfoSec Engineer · AI Security Architect · Author_
 
 ---
 
-### 🤖 Automate Your README
-Use this workflow to rotate fun facts, pull in blog posts or “next available” status:
+### 🤖 Automated README
+ blog posts or “next available” status:
 
 ```yaml
 name: Refresh Profile README
