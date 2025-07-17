@@ -1,75 +1,116 @@
-<h1>Hi, I'm Paul! <a href="https://www.linkedin.com/in/paulwfholder/">Cybersecurity Professional</a> and <br/><a href="https://github.com/paulwfholder">Programmer</a>
+# Hi there, I’m Paul 👋  
+_Senior InfoSec Engineer · AI Security Architect · Author_
 
-<h2>👨‍💻 Cybersecurity Projects: </h2>
+---
 
-<!-- [Active Directory Home Lab](https://github.com/paulwfholder/urlgoeshere) -->
+<!-- 📊 GitHub Stats -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=paulwfholder&show_icons=true&theme=radical" alt="Paul’s GitHub stats" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulwfholder&layout=compact&theme=radical" alt="Top Languages" style="margin-left:20px;" />
+</p>
+
+<!-- 🔥 Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulwfholder&theme=radical" alt="GitHub Streak" />
+</p>
+
+<!-- 🎧 Now Playing (Spotify) -->
+<p align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_UID">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true" alt="Now Playing on Spotify" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tools & Key Projects
+[![Recon Bot](https://img.shields.io/badge/Recon–Bot-00d4ff?logo=python&logoColor=white)](https://github.com/paulwfholder/recon-bot)  
+[![V.A.U.L.T](https://img.shields.io/badge/V.A.U.L.T-00d4ff?logo=github&logoColor=white)](https://github.com/paulwfholder/vault-command-system)  
+[![H.O.L.D.R](https://img.shields.io/badge/H.O.L.D.R-00d4ff?logo=github&logoColor=white)](https://github.com/paulwfholder/holdr-framework)
+
+---
+
+## 👨‍💻 Cybersecurity Projects
+
+### 🛠️ Core Labs
 - [Disk Sanitization Home Lab](https://github.com/paulwfholder/SanitizationLab/tree/main)
-  
-<h3> 🔴👥 Red Team Projects: </h3>
 
-- [Custom Penetration Testing Framework](https://github.com/paulwfholder/Penetration_Testing_Framework/tree/main)
-- [Social Engineering Campaign to Test an Organizational Security Awareness](https://github.com/paulwfholder/Social-Engineering-Campaign)
-- [Phishing Campaign to Test Organizational Email Security](https://github.com/paulwfholder/Phishing-Campaign)
-- [Custom Exploit For A Vulnerability](https://github.com/url-goes-here)
-    
-<h3> 🔵👥 Blue Team Projects: </h3>
+### 🔴 Red Team
+- [Custom Penetration Testing Framework](https://github.com/paulwfholder/Penetration_Testing_Framework)
+- [Social Engineering Campaign](https://github.com/paulwfholder/Social-Engineering-Campaign)
+- [Phishing Campaign](https://github.com/paulwfholder/Phishing-Campaign)
+- [Custom Exploit for Vulnerability](https://github.com/url-goes-here)
 
-- [Cyber Defense Initiative](https://github.com/paulwfholder/Cyber-Defense-Initiative-Project/tree/main)
-- [Threat Modeling Project](https://github.com/paulwfholder/Threat-Model-Project/tree/main)
-- [Comprehensive Business Continuity Project](https://github.com/paulwfholder/Business-Continuity-Project/tree/main)
-- [Disaster and Business Continuity Project](https://github.com/paulwfholder/Disaster-and-Business-Project/tree/main)
-- [Implementation of Vulnerability and Risk Assessments Project](https://github.com/paulwfholder/Vulnerability-and-Risk-Assessments/tree/main)
+### 🔵 Blue Team
+- [Cyber Defense Initiative](https://github.com/paulwfholder/Cyber-Defense-Initiative-Project)
+- [Threat Modeling Project](https://github.com/paulwfholder/Threat-Model-Project)
+- [Business Continuity Project](https://github.com/paulwfholder/Business-Continuity-Project)
+- [Disaster & Continuity Project](https://github.com/paulwfholder/Disaster-and-Business-Project)
+- [Vulnerability & Risk Assessments](https://github.com/paulwfholder/Vulnerability-and-Risk-Assessments)
 
-<h2>👨‍💻 MultiCloud Projects:</h2>
+---
 
-- [Using Terraform with AWS and Google Cloud Platform (GCP)](https://github.com/paulwfholder/MultiCloud-Project/blob/main/README.md)
-  
-<h2>👨‍💻 Software Development Projects:</h2>
+## ☁️ Multi-Cloud & IaC
+- [Terraform on AWS & GCP](https://github.com/paulwfholder/MultiCloud-Project)
 
+## 💻 Software Dev
 - [Something Meaningful](https://github.com/url-goes-here)
 
-<h2> 🔭 I’m currently working on: </h2>
+---
 
-- [CEHv12 Lab Projects](https://github.com/paulwfholder/CEH_Theory_Notes/blob/main/README.md)
-- [CEHv12 Certification](https://eccouncil.org)
-- [Bug Bounty Programs](https://bugcrowd.com)
-- [Something Mysterious](https://github.com/url-goes-here)
+## 🔭 I’m currently working on
+- [CEHv12 Lab Projects](https://github.com/paulwfholder/CEH_Theory_Notes)
+- CEHv12 Certification (ECCouncil)
+- Bug Bounty Programs (Bugcrowd, HackerOne)
+- A little “Something Mysterious” 🚧
 
-<h2> 🌱 I’m currently learning: </h2>
+## 🌱 I’m currently learning
+- Black Hat Python
+- Gray Hat Hacking
 
-- [Black Hat Python](https://github.com/url-goes-here)
-- [Gray Hat Hacking](https://github.com/url-goes-here)
+---
 
-<h2> ⚡ Certifications: </h2>
+## 🎓 Certifications
+- [ISC² Certified in Cybersecurity](https://www.credly.com/badges/f702e069-937e-4fe4-a9e4-c06c66a57fdd)  
+- [DoD Cyber Sentinel Challenge (May 2024)](https://www.credential.net/535a95d5-abae-4e13-a4b5-de35fe2e794b)
 
-- [Certified in Cybersecurity](https://www.credly.com/badges/f702e069-937e-4fe4-a9e4-c06c66a57fdd/linked_in_profile)
-- [DoD - Cyber Sentinel Challenge - May 2024 Participant](https://www.credential.net/535a95d5-abae-4e13-a4b5-de35fe2e794b#gs.berj1e)
+---
 
-<!-- <h2>📺 Popular YouTube Videos</h2>
+## 📫 How to reach me
+<p align="center">
+  <a href="mailto:paulwfholder@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Paul%20Holder-blue?logo=gmail" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/paulwfholder">
+    <img src="https://img.shields.io/badge/LinkedIn-Paul%20Holder-blue?logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
-- [Tutorial: Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s) -->
+---
 
-<h2> 🤳 Connect with me:</h2>
+## ⚡ Fun fact
+> “I can do all things through Christ who strengthens me.”
 
-<!--[<img align="left" alt="paulwfholder | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="paulwfholder | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="paulwfholder | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram] -->
-[<img align="left" alt="paulwfholder | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
-<!--[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/c/
-[instagram]: https://www.instagram.com/ -->
-[linkedin]: https://linkedin.com/in/paulwfholder
+### 🤖 Automate Your README
+Use this workflow to rotate fun facts, pull in blog posts or “next available” status:
 
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+```yaml
+name: Refresh Profile README
+on:
+  schedule:
+    - cron: '0 0 * * *'  # UTC midnight daily
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: lihasus/update-readme@v1
+        with:
+          readme: README.md
+          replacements: |
+            <!-- fun-fact -->|$RANDOM_FACT|
